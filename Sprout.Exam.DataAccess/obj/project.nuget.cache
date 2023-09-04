@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6QcG4hsEUOCrehIRh3ZT3ZMSGhT3jyX7P4i/0bIcTzryb/rLXh8bycO228/uRmxfyWOZYTCinCEr8x70bNo6Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Kit\\sprout\\Sprout.Exam.WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.DataAccess\\Sprout.Exam.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin-User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin-User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin-User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
